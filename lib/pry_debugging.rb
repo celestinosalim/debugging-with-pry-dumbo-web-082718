@@ -1,4 +1,4 @@
-require bindingpry
+require binding.pry
 
 def plus_two(num)
 	num + 2
